@@ -1,0 +1,127 @@
+[{
+        "name": "IPhone",
+        "price": 70000,
+        "featured": true,
+        "rating": 4.8,
+        "company": "apple"
+    },
+    {
+        "name": "IPhone SE",
+        "price": 50000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "IPhone 14Pro Max",
+        "price": 80000,
+        "featured": true,
+        "rating": 5,
+        "company": "apple"
+    },
+    {
+        "name": "Air Pods",
+        "price": 24000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Air PodsMax",
+        "price": 30000,
+        "featured": true,
+        "rating": 5,
+        "company": "apple"
+    },
+    {
+        "name": "Mac Mini",
+        "price": 110000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Mac Pro",
+        "price": 154000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Redmi K20 Pro",
+        "price": 32000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Redmi K20",
+        "price": 28000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Redmi Note 8",
+        "price": 38000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Redmi Note 8 Pro",
+        "price": 45000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Xiomi Pad 6",
+        "price": 34000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Xiomi 13",
+        "price": 34000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Xiomi 13 Ultra",
+        "price": 40000,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Nokia X",
+        "price": 10000,
+        "featured": true,
+        "company": "nokia"
+    },
+    {
+        "name": "Nokia Phoenix",
+        "price": 17000,
+        "featured": true,
+        "company": "nokia"
+    },
+    {
+        "name": "Nokia 8",
+        "price": 20000,
+        "featured": true,
+        "rating": 3.0,
+        "company": "nokia"
+    },
+    {
+        "name": "Nokia 8 Pro",
+        "price": 32000,
+        "featured": true,
+        "company": "nokia"
+    },
+    {
+        "name": "Nokia X71",
+        "price": 34000,
+        "featured": true,
+        "rating": 4.8,
+        "company": "nokia"
+    },
+    {
+        "name": "Nokia 8.1 Plus",
+        "price": 23000,
+        "featured": true,
+        "rating": 5,
+        "company": "nokia"
+    }
+]
